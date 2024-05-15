@@ -1,0 +1,30 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.heading{
+    text-align: center;
+    font-size: 2.2rem;
+    background-color: rgb(38, 132, 209);
+    color: white;
+    padding: 0;
+    margin: 0;
+    padding: 2%;
+}
+.box-container{
+    display: flex;
+    justify-content: center;
+    padding: 3%;
+}
+.box{
+    width: 23%;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    margin-top: 5%;
+    padding: 2%;
+    border-radius: 5%;
+    margin-right: 2%;
+}
