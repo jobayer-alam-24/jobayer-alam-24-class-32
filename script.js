@@ -3,6 +3,7 @@ const mainCon = document.createElement('main');
 let boxCon = document.createElement('div');
 let btnOuter = document.createElement('div');
 boxCon.classList.add('box-container');
+btn.classList.add('rmButton');
 boxCon.style.padding = '30px';
 
 for (let i = 0; i <= 2; i++) {
