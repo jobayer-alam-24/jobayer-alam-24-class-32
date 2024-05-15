@@ -37,7 +37,7 @@ body{
     margin-top: 4%;
     text-align: center;
 }
-.rmButton{
+.btnOuter button{
     border: none;
     outline: none;
     background-color: rgb(37, 101, 197);
